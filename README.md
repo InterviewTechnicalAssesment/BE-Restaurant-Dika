@@ -25,11 +25,6 @@ It is crucial to do it in sequence before starting the next step
 ### 1. Clone this Repository
 Go to your terminal or command prompt and clone this repository
 
-After the cloning process finish, navigate to the root directory of this project with the following command
-```script
-cd ms-inventory
-```
-
 ### 2. Bring all Services up
 On the root directory turn on all services with docker-compose
 ```script
